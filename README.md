@@ -18,6 +18,12 @@ Passionate developer with 2+ years of experience in crafting scalable frontend s
 - Building responsive and performant web applications
 - Implementing clean code principles and best practices
 
+### What I Did
+- Developed different tasks to challenge myself based on my studies
+- Regenerate Tapsi website (online taxi service)
+- Created Blog App by Next, JavaScript, and Tailwind CSS
+- Developed Freelancering App by React, JavaScript, and Tailwind CSS with an authentication process
+
 ### 🌱 Currently Learning
 - Advanced AWS Services
 - Cloud Architecture Patterns
