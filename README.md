@@ -7,7 +7,7 @@ Passionate developer with 2+ years of experience in crafting scalable frontend s
 ### 👀 I’m interested in learning new technologies, working on new projects, and gaining more experience.
   
 ### 🛠️ Tech Stack
-- **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, shadcn/ui, MUI
 - **Testing:** Jest, Vitest
 - **Backend Experience:** Python, SQL (PostgreSQL, SQL Server)
 - **DevOps:** Git, CI/CD
