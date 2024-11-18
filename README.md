@@ -12,7 +12,7 @@ Passionate developer with 2+ years of experience in crafting scalable frontend s
 - **Backend Experience:** Python, SQL (PostgreSQL, SQL Server)
 - **DevOps:** Git, CI/CD
 - **Monitoring:** Grafana, Zabbix
-- **Other:** RESTful APIs, GraphQL
+- **Other:** RESTful APIs
 
 ### 🚀 What I Do
 - Building responsive and performant web applications
