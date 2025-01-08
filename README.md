@@ -2,7 +2,7 @@
 
 ## 💻 Frontend Developer
 
-Passionate developer with 2+ years of experience in crafting scalable frontend solutions, Based in Göteborg, Sweden 🇸🇪
+Passionate developer with 2+ years of experience in crafting scalable frontend solutions, Based in Gothenburg, Sweden 🇸🇪
 
 ### 👀 I’m interested in learning new technologies, working on new projects, and gaining more experience.
   
