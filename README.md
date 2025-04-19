@@ -2,16 +2,17 @@
 
 ## 💻 Frontend Developer
 
-Passionate developer with 2+ years of experience in crafting scalable frontend solutions, Based in Gothenburg, Sweden 🇸🇪
+Passionate developer with 4+ years of experience in crafting scalable frontend solutions, based in trollhättan, Sweden 🇸🇪
 
 ### 👀 I’m interested in learning new technologies, working on new projects, and gaining more experience.
   
 ### 🛠️ Tech Stack
 - **Frontend:** React.Js, Redux, Next.Js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, shadcn/ui, MUI
-- **Testing:** Jest, Vitest
+- **Testing:** Vitest, Jest, Storybook, Cypress, Playwright
 - **Backend Experience:** Python, Flask, Node.Js
 - **DataBase Experience:** SQL (Postgresql, SQL server), MongoDB
 - **DevOps:** Git, CI/CD
+- **Cloud Services:** AWS
 - **Monitoring:** Grafana, Zabbix
 - **Other:** RESTful APIs
 
@@ -22,13 +23,14 @@ Passionate developer with 2+ years of experience in crafting scalable frontend s
 ### What I Did
 - Developed different tasks to challenge myself based on my studies
 - Regenerate Tapsi website (online taxi service)
-- Created Blog App by Next, JavaScript, and Tailwind CSS
+- Created Blog App with Next.js, JavaScript, and Tailwind CSS
 - Developed Freelancering App by React, JavaScript, and Tailwind CSS with an authentication process
 
 ### 🌱 Currently Learning
 - Advanced AWS Services
 - Cloud Architecture Patterns
 - Expanding DevOps practices
+- Create new web applications
 
 ### 📫 Let's Connect
 - LinkedIn: [Saber Elmbaz](https://linkedin.com/in/saber-elmbaz)
